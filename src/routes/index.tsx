@@ -119,13 +119,12 @@ function Portfolio() {
               Available for Opportunities
             </div>
             <p className="text-muted-foreground mb-3 font-medium">Hello, I'm</p>
-            <h1 className="text-5xl md:text-6xl font-bold mb-4 leading-tight">
-              Zeenathul<br />
-              <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Husniya</span>
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 leading-tight tracking-tight md:whitespace-nowrap">
+              Zeenathul Husniya
             </h1>
-            <p className="text-lg text-primary font-semibold mb-5">Junior Software Developer</p>
+            <p className="text-2xl md:text-3xl text-primary font-semibold mb-6">Junior Software Developer</p>
             <p className="text-muted-foreground mb-8 max-w-lg leading-relaxed">
-              Junior Software Developer passionate about building efficient software solutions, learning modern technologies, and solving real-world problems through code.
+              Passionate about building efficient software solutions and learning modern technologies.
             </p>
             <div className="flex flex-wrap gap-3">
               <a href="#projects" className="inline-flex items-center gap-2 rounded-full bg-primary text-primary-foreground px-6 py-3 text-sm font-semibold hover:opacity-90 transition shadow-soft">
