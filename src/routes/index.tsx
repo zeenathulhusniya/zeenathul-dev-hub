@@ -79,7 +79,7 @@ function Portfolio() {
       <header className="fixed top-0 inset-x-0 z-50 backdrop-blur-md bg-background/80 border-b border-border">
         <nav className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
           <a href="#home" className="font-display font-bold text-lg">
-            zeenathul<span className="text-primary">.</span>
+            zeenathul<span className="text-primary">.dev</span>
           </a>
           <ul className="hidden md:flex items-center gap-8 text-sm font-medium">
             {navItems.map((n) => (
