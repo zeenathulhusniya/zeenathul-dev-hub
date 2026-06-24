@@ -150,8 +150,8 @@ function Portfolio() {
                   <Code2 className="h-6 w-6" />
                 </div>
                 <div>
-                  <p className="text-sm font-bold text-primary leading-tight">Developer</p>
-                  <p className="text-xs text-muted-foreground">Class of 2026</p>
+                  <p className="text-sm font-bold text-primary leading-tight">Junior</p>
+                  <p className="text-xs text-muted-foreground">Software Developer</p>
                 </div>
               </div>
             </div>
