@@ -119,7 +119,7 @@ function Portfolio() {
               Available for Opportunities
             </div>
             <p className="text-muted-foreground mb-3 font-medium">Hello, I'm</p>
-            <h1 className="text-5xl md:text-6xl font-bold mb-4 leading-tight tracking-tight whitespace-nowrap">
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 leading-tight tracking-tight md:whitespace-nowrap">
               Zeenathul Husniya
             </h1>
             <p className="text-2xl md:text-3xl text-primary font-semibold mb-6">Junior Software Developer</p>
