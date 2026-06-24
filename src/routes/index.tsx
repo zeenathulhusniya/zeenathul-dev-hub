@@ -145,9 +145,14 @@ function Portfolio() {
               <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-background shadow-card ring-4 ring-primary/20">
                 <img src={profileImg} alt="Zeenathul Husniya" width={896} height={1024} className="w-full h-full object-cover" />
               </div>
-              <div className="absolute -bottom-4 -right-2 bg-background border border-border rounded-2xl px-4 py-3 shadow-card">
-                <p className="text-2xl font-bold text-primary">B.Tech</p>
-                <p className="text-xs text-muted-foreground">Class of 2026</p>
+              <div className="absolute -bottom-4 -right-2 bg-background border border-border rounded-2xl px-4 py-3 shadow-card flex items-center gap-3">
+                <div className="h-10 w-10 rounded-xl bg-primary-soft text-primary flex items-center justify-center">
+                  <Code2 className="h-6 w-6" />
+                </div>
+                <div>
+                  <p className="text-sm font-bold text-primary leading-tight">Developer</p>
+                  <p className="text-xs text-muted-foreground">Class of 2026</p>
+                </div>
               </div>
             </div>
           </div>
