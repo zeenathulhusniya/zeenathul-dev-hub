@@ -5,7 +5,8 @@ import {
   Code2, Database, GitBranch, Globe, GraduationCap, Briefcase,
   Send, ExternalLink, Sparkles, Brain, Users, Lightbulb,
 } from "lucide-react";
-import profileImg from "@/assets/profile.jpg";
+import profileAsset from "@/assets/profile.png.asset.json";
+const profileImg = profileAsset.url;
 
 export const Route = createFileRoute("/")({
   head: () => ({
